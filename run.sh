@@ -1,0 +1,1 @@
+nohup python train.py --dataset=livec --train_test_num=5 --cudas=0 --use_seed --seed=0 --random_single > /dev/null 2> e.txt &
